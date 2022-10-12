@@ -32,7 +32,7 @@
         android:minHeight="50dp"
         android:padding="15dp"
         android:singleLine="true"
-        android:text="Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Tiandard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time"
+        android:text="Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time Alaska Standard Time"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="0dp" />
 
